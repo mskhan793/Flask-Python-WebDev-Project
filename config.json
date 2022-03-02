@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/webdevharry",
+        "prod_uri":"mysql://root:@localhost/webdevharry",
+        "fb_url":"https://www.facebook.com/#",
+        "tw_url":"https://twitter.com/#",
+        "gt_url":"https://github.com/#",
+        "blog_name":"ImMS_Khan",
+        "gmail-user":"gmail",
+        "gmail-password":"@password",
+        "about_text": "Hi my name is Shahzad and I am learning IoT, WebDev and ML.",
+        "no_of_posts": 2,
+        "login_image":"login.svg",
+        "admin_user":"your-email@gmail.com",
+        "admin_password":"gmailpassword",
+        "upload_location":"E:/Flask/Files_uploaded"
+    }
+}
